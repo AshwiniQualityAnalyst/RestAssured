@@ -1,0 +1,16 @@
+<root>
+   <accuracy>50</accuracy>
+   <address>29, side layout, cohen 09</address>
+   <language>French-IN</language>
+   <location>
+      <lat>-38.383495</lat>
+      <lng>33.42736</lng>
+   </location>
+   <name>Frontline house</name>
+   <phone_number>(+91) 983 893 3937</phone_number>
+   <types>
+      <element>shoe park</element>
+      <element>shop</element>
+   </types>
+   <website>http://google.com</website>
+</root>
